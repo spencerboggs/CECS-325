@@ -1,1 +1,1 @@
-Published *after* the fall 2024 deadline.
+This repository was published *after* the Fall 2024 submission deadline.
